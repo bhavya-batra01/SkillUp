@@ -96,9 +96,6 @@ SkillUp/
 │
 ├── SkillUp.java
 │
-├── User
-├── Resource
-├── Loader (Thread)
 │
 └── MySQL Database
 ```
